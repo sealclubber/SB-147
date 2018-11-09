@@ -1,0 +1,11 @@
+macro list
+0 sudo su -
+1 curl wttr.in
+2 :1
+3 :$
+4 alt tab tab
+5 notes
+6 vi /Dropbox/transfile
+7 stty rows 89 columns 211
+8 stty rows 79 columns 211
+
